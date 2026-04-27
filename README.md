@@ -4,6 +4,10 @@
 
 This project evaluates enzyme commission (EC) classification from protein sequences using the DGEB EC classification benchmark. We compare logistic regression models with handcrafted sequence features against a homology-based BLAST baseline.
 
+## How to Run
+
+All notebooks were run in **Google Colab**. A CPU runtime is enough. No GPU is required.
+
 ## Project Overview
 
 The goal of this project is to answer the following question:
