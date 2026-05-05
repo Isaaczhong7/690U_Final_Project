@@ -40,7 +40,7 @@ The final results showed that the 3-mer logistic regression model performed best
 | DGEB baseline | 0.4453 | 0.3937 | 0.3937 |
 | BLAST Top-1 homology baseline | 0.9718 | 0.9537 | 0.9671 |
 
-Note: The BLAST result is reported on covered test samples with valid sequence-similarity hits under the selected E-value threshold.
+Note: The BLAST result is reported on covered test samples *ONLY* with valid sequence-similarity hits under the selected E-value threshold.
 
 ## Repository Structure
 
